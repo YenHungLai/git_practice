@@ -1,0 +1,16 @@
+@tailwind preflight;
+@tailwind components;
+.btn-reg {
+  @apply w-64 bg-yellow
+}
+.btn-reg:hover {
+  @apply bg-blue-dark text-white font-bold rounded
+}
+
+.btn-tab {
+  @apply flex-grow border-4 border-grey-light bg-white
+}
+.btn-tab:hover {
+  @apply bg-grey
+}
+@tailwind utilities;

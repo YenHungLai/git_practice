@@ -1,0 +1,21 @@
+.Login {
+  display: inline-block;
+  position: relative;
+  left: 40%;
+  top: 150px;
+}
+
+.SignIn {
+  display: block;
+  margin: auto;
+}
+
+.menuButton {
+  positon: relative;
+  left: 20%;
+}
+
+input {
+  width: 300px;
+  border-radius: 0px;
+}
